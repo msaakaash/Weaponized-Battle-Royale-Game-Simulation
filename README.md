@@ -15,3 +15,7 @@ Weaponized Battle Royale Simulation is a Python-based battle royale simulation t
 - **NetworkX** - Used for graph-based movement simulation.
 - **Matplotlib** - For visualization of player interactions.
 - **Linked Lists** - Implemented for dynamic arsenal storage.
+
+
+## 📝 License  
+This project is licensed under the MIT License. 
